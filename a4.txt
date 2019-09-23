@@ -1,0 +1,12 @@
+Name: Bowen Wang
+Student ID: 301267523
+
+Team Member: Bowen Wang 301267523
+
+Project: Connect 4
+
+Language: C++
+
+Libraries: <iostream> <array> <vector> <utility> <iterator> <cmath> 
+
+more libraries may added during project progress. 
